@@ -2,3 +2,4 @@ bomberos.gob.sv
 *.bomberos.gob.sv
 www.facebook.com
 *.facebook.com
+facebook.com
