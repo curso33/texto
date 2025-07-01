@@ -1,2 +1,3 @@
 *.bomberos.gob.sv
 *.facebook.com
+www.bomberos.gob.sv
